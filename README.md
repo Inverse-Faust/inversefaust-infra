@@ -1,2 +1,3 @@
-### temmo.jang 실습 및 개인 미션
-- [x] 07.04 TCP/UDP 패킷 캡처 실습
+# inversefaust-infra
+카카오테크부트캠프 해커톤 인프라 레포지토리
+
